@@ -1,0 +1,16 @@
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.exe
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.deps.json
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.runtimeconfig.json
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.runtimeconfig.dev.json
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.dll
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\ref\055.dll
+C:\Users\cho changhun\Desktop\C#200제\055\bin\Debug\net5.0\055.pdb
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.csprojAssemblyReference.cache
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.AssemblyInfoInputs.cache
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.AssemblyInfo.cs
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.csproj.CoreCompileInputs.cache
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.dll
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\ref\055.dll
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.pdb
+C:\Users\cho changhun\Desktop\C#200제\055\obj\Debug\net5.0\055.genruntimeconfig.cache
