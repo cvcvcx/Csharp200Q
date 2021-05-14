@@ -1,0 +1,16 @@
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.exe
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.deps.json
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.runtimeconfig.json
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.runtimeconfig.dev.json
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.dll
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\ref\053.dll
+C:\Users\cho changhun\Desktop\C#200제\053\bin\Debug\net5.0\053.pdb
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.csprojAssemblyReference.cache
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.AssemblyInfoInputs.cache
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.AssemblyInfo.cs
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.csproj.CoreCompileInputs.cache
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.dll
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\ref\053.dll
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.pdb
+C:\Users\cho changhun\Desktop\C#200제\053\obj\Debug\net5.0\053.genruntimeconfig.cache
